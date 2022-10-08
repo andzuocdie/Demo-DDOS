@@ -1,8 +1,7 @@
 # Demo-DDOS
-Tool Miễn Phí = Sủa Tool Lỏ Thì Đừng DÙng Nx Qua Tool Khác OK
 Lệnh Chạy :
-git clone ......
-cd .....
+git clone https://github.com/andzuocdie/Demo-DDOS
+cd Demo-DDOS
 python main.py
 --------------------
 chạy = python3
